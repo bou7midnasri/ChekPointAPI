@@ -1,0 +1,17 @@
+.container{
+  
+    width:50%;
+    height:50%;
+    margin-top: 50px;
+   
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   
+    
+    text-shadow:0 0 30px #EC637B,5px 9px 5px rgba(0, 0, 0, 0.5), 0 0 150px #EC637B;color:#4b0b18;
+    background-color:#919aa0;
+    margin-left: 300PX;
+    border-radius: 25px;
+  }
